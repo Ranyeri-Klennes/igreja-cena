@@ -3,7 +3,7 @@
 Este aplicativo está sendo desenvolvido com o propósito de aprimorar a experiência da comunidade da nossa igreja. A ideia surgiu como um projeto de estudo, mas rapidamente se transformou em uma solução para um problema que observamos. Estamos abertos a sugestões e ideias para melhorar este aplicativo, e também resolver quaisquer problemas que possam surgir! 👾💡
 
 ## Layout 📱
-<img align="center"  width="50%" src="https://github.com/Ranyeri-Klennes/cenarecife-app/assets/46034451/5af6fb9a-6881-49a6-afff-9714137cad62">
+<img align="center"  width="50%" src="./assets/appearenceApp.png">
 
 ## Instruções 📋
 - Faça um Fork deste repositório
