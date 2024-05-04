@@ -13,18 +13,22 @@ export function StackRoutes() {
       <Screen
         name="Home"
         component={HomeScreen}
+        options={{ headerShown: false }}
       />
       <Screen
         name="NoticesEventsScreen"
         component={NoticesEventsScreen}
+        options={{ headerShown: false }}
       />
       <Screen
         name="RegisterScreen"
         component={RegisterScreen}
+        options={{ headerShown: false }}
       />
       <Screen
         name="TitheOffertsScreen"
         component={TitheOffertsScreen}
+        options={{ headerShown: false }}
       />
     </Navigator>
   )

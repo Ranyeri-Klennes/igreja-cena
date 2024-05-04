@@ -26,7 +26,6 @@ export const styles = StyleSheet.create({
     informationText: {
         color: '#AAAAAA',
         fontStyle: 'italic',
-        fontSize: 16,
     },
     subTitleText: {
         color: '#FFFFFF',

@@ -5,7 +5,7 @@ export const styles = StyleSheet.create({
         flex: 1,
         width: "100%",
         height: "100%",
-        backgroundColor: '#0F0F0F',
+        backgroundColor: '#000000',
         alignItems: 'center', // Alinhamento horizontal
         justifyContent: 'space-between', // Alinhamento vertical
     },
@@ -42,7 +42,6 @@ export const styles = StyleSheet.create({
     },
     textInButton: {
         color: '#4E4E4E',
-        fontSize: 16,
         fontWeight: '500',
     },
     button: {

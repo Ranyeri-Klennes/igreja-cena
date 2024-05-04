@@ -15,7 +15,7 @@ export const styles = StyleSheet.create({
         marginTop: "30%",
         marginBottom: "5%",
     },
- button: {
+    button: {
         backgroundColor: '#EEEEEE',
         padding: "4%",
         width: "60%",
@@ -30,7 +30,6 @@ export const styles = StyleSheet.create({
     },
     textInButton: {
         color: '#4E4E4E',
-        fontSize: 16,
-        fontWeight: '500',
+        fontWeight: 'bold',
     },
 })
